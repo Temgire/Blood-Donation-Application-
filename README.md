@@ -39,7 +39,7 @@ It provides animated GIF support and handles image loading/caching.
 
   return myImageView;
 }
-*****************************************************************************************************
+******************************************************************************************************
 
 dependencies {
   implementation 'com.github.bumptech.glide:glide:4.14.2'
